@@ -2,7 +2,7 @@
 
 #--------------------constant-variables-------------------
 
-dependencies=("base-devel" "xorg-server" "xorg-xinit" "libx11" "libxinerama" "libxft" "webkit2gtk" "dmenu" "ttf-hack" "feh" "python-pywal" "picom" "sl" "neofetch" "rxvt-unicode") # all the packages needed for the installation 
+dependencies=("base-devel" "xorg-server" "xorg-xinit" "libx11" "libxinerama" "libxft" "webkit2gtk" "dmenu" "ttf-hack-nerd" "feh" "python-pywal" "picom" "sl" "neofetch" "rxvt-unicode") # all the packages needed for the installation 
 dwm_git="https://github.com/savith12321/dwm" # source of the dwm; if you want another version of dwm change the link here 
 st_git="https://github.com/savith12321/st" # source of st (simple terminal); if yo want another version of st (simple terminal) change the link here
 
